@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11,
+    "nama": "Keraton Kasepuahn Cirebon",
+    "fotoUrl": "https://www.itrip.id/wp-content/uploads/2019/07/Tempat-Wisata-Cirebon.jpg",
+    "harga": 25,
+    "lat": -6.724395,
+    "lng": 108.571204
+  },
+  {
+    "id": 12,
+    "nama": "Pantai Baro Gebang",
+    "fotoUrl": "https://www.itrip.id/wp-content/uploads/2019/07/Pantai-Baro-Gebang.jpg",
+    "harga": 15,
+    "lat": -6.805674790223063, 
+    "lng": 108.73056356449324
+  },
+  {
+    "id": 13,
+    "nama": "Banyu-Panas-Palimanan",
+    "fotoUrl": "https://www.itrip.id/wp-content/uploads/2019/07/Wisata-Banyu-Panas-Palimanan.jpg",
+    "harga": 430,
+    "lat": -6.712222708063171, 
+    "lng": 108.40024349720689
+  },
+  {
+    "id": 14,
+    "nama": "Situ Sedong",
+    "fotoUrl": "https://www.itrip.id/wp-content/uploads/2019/07/Setu-Sedong.jpg",
+    "harga": 315,
+    "lat": -6.877373715984981, 
+    "lng": 108.57707310454184
+  },
+  {
+    "id": 15,
+    "nama": "Cikalahang Forest",
+    "fotoUrl": "https://www.itrip.id/wp-content/uploads/2019/07/Desa-Wisata-Cikalahang.jpg",
+    "harga": 435,
+    "lat": -6.783311319751403, 
+    "lng": 108.41797976581931
+  },
+  {
+    "id": 16,
+    "nama": "Cirebon Waterland",
+    "fotoUrl": "https://www.itrip.id/wp-content/uploads/2019/07/Cirebon-Waterland.jpg",
+    "harga": 390,
+    "lat": -6.717364594978704, 
+    "lng": 108.57338015487795
+  }
+]
